@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Sam 👋
 
-<!--
-**smcewan0/smcewan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**16 | Software Developer | C++ • Rust • C# • Go • Python**
 
-Here are some ideas to get you started:
+I've been coding since I was 14, with a passion for systems programming, performance, and building software that solves real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I've Built
+- 🔐 **Chatted** — E2EE messaging platform built with Rust, C++ & Qt, using the Signal Protocol.
+- ⚡ **PC Optimizer** — Windows performance and gaming optimization utility.
+- 🖐️ **Hand Tracker** — Real-time computer vision and fingertip tracking in C++.
+- 🛠️ **Developer Tools** — Automation utilities, Discord bots, and 25+ commercial ImGui interfaces.
+
+### 💻 Tech Stack
+`C++` `Rust` `C#` `Go` `Python` `Qt` `ImGui` `HTML` `CSS` `JavaScript`
+
+📚 Currently learning SQL.
+
+☕ **Turning caffeine into code.**
