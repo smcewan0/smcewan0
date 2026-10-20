@@ -2,7 +2,7 @@
 
 **16 | Software Developer | C++ • Rust • C# • Go • Python**
 
-I've been coding since I was 14, with a passion for systems programming, performance, and building software that solves real problems.
+I've been coding since I was 13, with a passion for systems programming, performance, and building software that solves real problems.
 
 ### 🚀 What I've Built
 - 🔐 **Chatted** — E2EE messaging platform built with Rust, C++ & Qt, using the Signal Protocol.
